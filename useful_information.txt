@@ -1,0 +1,5 @@
+Useful Information:
+http://stackoverflow.com/questions/3678766/document-management-system-what-to-use-as-storage-backend-docs-content-reposito
+http://blog.dreamcss.com/content-management-system/jlibrary/
+http://www.maxdesign.com.au/articles/css-layouts/
+http://sourceforge.net/projects/ov4j/
